@@ -14,7 +14,7 @@
 
 느려도 꾸준히 갑시다.
 
-
+​         
 
 ##### 멀티캠퍼스 교육과정에서 배운 것들
 
@@ -24,4 +24,4 @@
 
 ##### 혼자 학습한 것들
 
-- html의 기초 문법과 웹 호스팅, 웹서버에 대해 배웠다. (생활코딩 WEB 1)
+- html의 기초 문법과 웹 호스팅, 웹서버에 대해 배웠다. [(생활코딩 WEB 1)](https://www.youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb)
